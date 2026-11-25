@@ -3,7 +3,16 @@
     "name": "Gunavikesh Sana",
     "title": "Software Engineer",
     "experience": "4+ years",
-    "focus": "Python · Data · AI"
+    "focus": "Python · Data · AI",
+    "headline": "Engineering dependable backend systems.",
+    "bio": "I build APIs, data workflows and intelligent automation with a focus on reliability, maintainability and practical business outcomes.",
+    "company": "William O’Neil India",
+    "location": "India",
+    "primaryStack": "Python · SQL · FastAPI",
+    "linkedin": "https://www.linkedin.com/in/gunavikesh-sana-9492s/",
+    "github": "https://github.com/Gunavikesh",
+    "photo": "",
+    "resume": ""
   },
   "projects": [
     {
@@ -15,7 +24,17 @@
         "FastAPI",
         "RAG",
         "Vector search"
-      ]
+      ],
+      "challenge": "Make technical documentation and historical resolutions easier to discover.",
+      "approach": "Document ingestion, semantic search and context-grounded generation behind FastAPI.",
+      "engineering": "Metadata, document lifecycle, retrieval quality and API integration.",
+      "architecture": [
+        "Documents → ingestion & chunking",
+        "Embeddings → vector index",
+        "Query → retrieval → grounded response",
+        "API → user interface"
+      ],
+      "link": ""
     },
     {
       "id": "data-workflows",
@@ -26,7 +45,17 @@
         "Python",
         "SQL Server",
         "PostgreSQL"
-      ]
+      ],
+      "challenge": "Deliver consistent data extracts while reducing manual intervention.",
+      "approach": "Python orchestration, database queries and scheduled processing.",
+      "engineering": "Data correctness, batch processing and repeatable execution.",
+      "architecture": [
+        "Relational data sources",
+        "Extract → filter → transform",
+        "Validate → generate output",
+        "Scheduled delivery & monitoring"
+      ],
+      "link": ""
     },
     {
       "id": "cloud-automation",
@@ -37,7 +66,117 @@
         "AWS",
         "Lambda",
         "Terraform"
+      ],
+      "challenge": "Improve visibility into cloud resource security configuration.",
+      "approach": "Python and Lambda-based checks with infrastructure configuration and integrations.",
+      "engineering": "Repeatable checks, permissions and actionable findings.",
+      "architecture": [
+        "AWS resource inventory",
+        "Lambda → configuration checks",
+        "Findings → operational integrations"
+      ],
+      "link": ""
+    }
+  ],
+  "experience": [
+    {
+      "company": "William O’Neil India",
+      "role": "Software Engineer",
+      "period": "Sep 2025 — Present",
+      "details": [
+        "Develop Python automation and data processing workflows for financial information systems.",
+        "Integrate relational databases and backend services for scheduled extraction and reporting.",
+        "Investigate operational failures and develop AI-assisted knowledge retrieval."
+      ],
+      "stack": [
+        "Python",
+        "FastAPI",
+        "SQL Server",
+        "PostgreSQL",
+        "RAG"
       ]
+    },
+    {
+      "company": "Wipro Technologies",
+      "role": "Developer",
+      "period": "Previous experience",
+      "details": [
+        "Developed Python automation for AWS cloud security checks.",
+        "Worked with infrastructure configuration, operational integrations and security monitoring.",
+        "Contributed to generative AI document extraction and code generation initiatives."
+      ],
+      "stack": [
+        "AWS Lambda",
+        "Python",
+        "Terraform"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Application engineering",
+      "description": "API development, authentication and integration.",
+      "stack": [
+        "Python",
+        "FastAPI",
+        "REST",
+        "JWT"
+      ]
+    },
+    {
+      "name": "Data engineering",
+      "description": "Relational queries, extraction and batch workflows.",
+      "stack": [
+        "SQL Server",
+        "PostgreSQL",
+        "ETL"
+      ]
+    },
+    {
+      "name": "Intelligent applications",
+      "description": "Document processing, semantic retrieval and LLM integration.",
+      "stack": [
+        "RAG",
+        "Pinecone",
+        "OpenAI API"
+      ]
+    },
+    {
+      "name": "Cloud automation",
+      "description": "Resource checks and infrastructure workflows.",
+      "stack": [
+        "AWS",
+        "Lambda",
+        "Terraform"
+      ]
+    },
+    {
+      "name": "Developer tooling",
+      "description": "Version control, containerization and deployment workflows.",
+      "stack": [
+        "Git",
+        "Docker",
+        "CI/CD"
+      ]
+    },
+    {
+      "name": "Production support",
+      "description": "Failure investigation and operational automation.",
+      "stack": [
+        "RCA",
+        "Monitoring",
+        "Troubleshooting"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "name": "Profiles REST API",
+      "url": "https://github.com/Gunavikesh/Profiles-rest-API"
+    },
+    {
+      "name": "Machine learning",
+      "url": "https://github.com/Gunavikesh/Machine-learning"
     }
   ]
 }
