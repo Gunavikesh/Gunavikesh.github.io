@@ -1,0 +1,43 @@
+{
+  "profile": {
+    "name": "Gunavikesh Sana",
+    "title": "Software Engineer",
+    "experience": "4+ years",
+    "focus": "Python · Data · AI"
+  },
+  "projects": [
+    {
+      "id": "knowledge-assistant",
+      "name": "Technical knowledge assistant",
+      "domain": "Applied AI",
+      "summary": "Document ingestion, semantic retrieval and context-grounded response generation.",
+      "stack": [
+        "FastAPI",
+        "RAG",
+        "Vector search"
+      ]
+    },
+    {
+      "id": "data-workflows",
+      "name": "Automated data workflows",
+      "domain": "Data engineering",
+      "summary": "Relational data extraction, validation and scheduled delivery.",
+      "stack": [
+        "Python",
+        "SQL Server",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "id": "cloud-automation",
+      "name": "AWS security automation",
+      "domain": "Cloud automation",
+      "summary": "Python and Lambda-based resource configuration checks.",
+      "stack": [
+        "AWS",
+        "Lambda",
+        "Terraform"
+      ]
+    }
+  ]
+}
